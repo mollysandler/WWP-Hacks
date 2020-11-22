@@ -1,0 +1,73 @@
+body{
+    text-align:center;
+    background-color:pink;
+}
+
+button{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-orientation: 'horizontal';
+}
+
+#tictactoe {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/7/7d/Tic-tac-toe-animated.gif');
+    background-size: 20 px 40 px;
+    height:190px;
+    width:200px;
+    margin-left:0%;
+}
+
+
+#rps {
+    background-image: url('https://media1.tenor.com/images/8b20c9c09b08ad7e9d908eba2be5031d/tenor.gif?itemid=12484431');
+    background-size: 130%;
+    height:190px;
+    width:200px;
+    margin-left:10%;
+
+
+}
+
+#snake {
+    background-image: url('https://hugosjoberg.github.io/images/snake.gif');
+    background-size: 100%;
+    height:190px;
+    width:200px;
+    margin-left:15%;
+
+}
+    
+    
+#connect {
+        background-image: url('https://blogs.mathworks.com/community/files/connectel.gif');
+        background-size: 105%;
+        height:190px;
+        width:200px;
+        margin-left: 15%;
+    }
+    
+    
+#bouncy {
+    background-image: url('https://24.media.tumblr.com/febdcb5a7ae913bc9e31fbdbf01c12f0/tumblr_n12800h4TJ1qav3uso1_1280.gif');
+    background-size: 150%;
+    height:190px;
+    width:200px;
+    margin-top: 4%;
+    margin-left: 10%;
+
+    }
+
+
+#pong {
+    background-image: url('https://miro.medium.com/max/1636/1*S21jzKRXsDul0q6O_rzBlg.gif');
+    background-size: 150%;
+    height:190px;
+    width:200px;
+    margin-left: 20%;
+}
+
+
+a {
+    color: rgb(55, 186, 226);
+    text-decoration: none;     
+    }
